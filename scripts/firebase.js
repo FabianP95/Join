@@ -1,4 +1,4 @@
-const BASE_URL = "https://remotestorage-d19c5-default-rtdb.europe-west1.firebasedatabase.app/join/"
+const BASE_URL = "https://remotestorage-1feb2-default-rtdb.europe-west1.firebasedatabase.app/"
 
 /**
  * fetches data onetime and stores it in const "AllData" for everybodys use at the start
