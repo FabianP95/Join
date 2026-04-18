@@ -1,4 +1,4 @@
-<h1>A Co-working tool</h1>
+<h1>A co-working tool</h1>
 Here you can organize tasks and invite co-workers or friends to structure upcoming projects.
 <br>
 Some features are:<br>
